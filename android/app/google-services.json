@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38602606359",
+    "project_id": "news-ac52a",
+    "storage_bucket": "news-ac52a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38602606359:android:4996637d90e998c22f1952",
+        "android_client_info": {
+          "package_name": "com.example.socoproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtJ9_Kq2rKpT4SQ9XvyvpJzwgYeUeOAi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
